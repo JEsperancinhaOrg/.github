@@ -7,6 +7,7 @@ Big thanks to have come here. In this organization, you'll find several projects
 - [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=omni-coveragereporter-maven-plugin&color=informational)](https://github.com/JEsperancinhaOrg/omni-reporter-maven-plugin)
 - [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=android-action🤖&color=informational)](https://github.com/JEsperancinhaOrg/android-action)
 - [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=loom-action☕️&color=informational)](https://github.com/JEsperancinhaOrg/loom-action)
+- [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=Geo%20Calculator&color=informational)](https://github.com/JEsperancinhaOrg/geo-calculator)
 
 <!--
 
